@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Rida Afreen 👋</h1>
 <p align="center">
-Aspiring Data Scientist & Machine Learning Engineer <br/>
 Python • Machine Learning • AI
 </p>
 
@@ -16,7 +15,7 @@ I enjoy working on real-world data problems, from exploratory data analysis to m
 - *Languages:* Python, SQL  
 - *Data Analysis:* Pandas, NumPy, Matplotlib, Seaborn  
 - *Machine Learning:* scikit-learn, Regression, Classification, Model Evaluation  
-- *Web & Deployment:* Flask, Streamlit (basic)  
+- *Web & Deployment:* Flask, Streamlit 
 - *Tools:* GitHub, Jupyter Notebook, VS Code  
 
 ---
@@ -33,7 +32,7 @@ I enjoy working on real-world data problems, from exploratory data analysis to m
 ---
 
 ## 🎯 Open To
-- Entry-level *Data Scientist* roles  
+- Entry-level roles  
 - *Junior Machine Learning Engineer / AI Trainee* positions  
 - Data Analyst (Python-focused)
 
